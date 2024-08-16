@@ -1,0 +1,22 @@
+header{
+    font-size: x-large;
+text-align: center;
+    position: fixed;
+background-color: red;
+width: 100%;
+
+}
+.texto{
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aqua;
+    
+}
+img{
+    width: 400px;
+    height: 350px;
+}
+body{
+    background-color: black;
+}
+   
